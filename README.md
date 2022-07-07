@@ -1,2 +1,2 @@
 # My-Theater
-Create JS Applications Exam
+JS Applications Exam
